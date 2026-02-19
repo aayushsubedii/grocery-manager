@@ -9,7 +9,6 @@ public class GroceryManager {
         }
     }
 
-    // YOUR PART 2 METHOD - ADD THIS
     public static void restockItem(String[] names, int[] stocks, String target, int amount) {
         boolean found = false;
         
